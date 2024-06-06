@@ -1,7 +1,7 @@
 # 🎧 Spotify Clone
 
 Welcome to my Spotify Clone project! This is a simple clone of Spotify built with HTML and CSS, designed to be fully responsive across different screen sizes.
-
+Check it out - https://spotify-clone-wje2.onrender.com
 
 ![image](https://github.com/niteshsaini9568/spotify-clone/assets/139841989/3898198e-a63b-4e30-9625-ffbc7e9db746)
 ![WhatsApp Image 2024-03-02 at 23 47 07_f4530a7d](https://github.com/niteshsaini9568/spotify-clone/assets/139841989/cd8b6a39-1b1d-407b-9011-7504cfab931e)
