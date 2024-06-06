@@ -36,6 +36,6 @@ Fork the project.
 
 #📧 Contact
 
-If you have any questions or suggestions, feel free to reach out to me at niteshsaini9568@gmail.com.
+If you have any questions or suggestions, feel free to reach out to me at shauryavishnoi0@gmail.com.
 
 Enjoy your Spotify clone experience! 🎶
